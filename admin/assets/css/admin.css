@@ -1,0 +1,38 @@
+/* This stylesheet is used to style the admin option form of the plugin. */
+
+.qa-form-wrap{
+  margin:5px auto 20px auto;
+  padding: 5px;
+    background: none repeat scroll 0 0 #ffffff;
+  border: 1px solid #e5e5e5;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+.qa-show {
+    display: block;
+}
+.qa-hide {
+    display: none;
+}
+.qa-form-wrap span.asterisk{
+  color:#ff0000;
+  font-size: 1.1em;
+  padding:0px 2px;
+}
+.qa-form-wrap .form-field-label{
+  font-weight: bold;
+}
+.qa-form-wrap .form-field-value{
+  margin-top:5px;
+}
+.qa-form-wrap .form-row{
+  margin-bottom:15px;
+  clear: both;
+  height: auto;
+  overflow: hidden;
+}
+.qa-form-wrap .grid.one-half{
+  width: 49%;
+  float: left;
+}
+
+

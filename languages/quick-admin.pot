@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: quick-admin\n"
+"POT-Creation-Date: 2014-07-05 21:11+0545\n"
+"PO-Revision-Date: 2014-07-05 21:11+0545\n"
+"Last-Translator: Nilambar Sharma <nilambar@outlook.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../../quick-admin\n"
+
+#: ../../quick-admin/admin/class-quick-admin-admin.php:168
+#: ../../quick-admin/admin/class-quick-admin-admin.php:169
+#: ../../quick-admin/admin/class-quick-admin-admin.php:177
+#: ../../quick-admin/admin/class-quick-admin-admin.php:389
+msgid "Quick Admin"
+msgstr ""
+
+#: ../../quick-admin/admin/class-quick-admin-admin.php:178
+#: ../../quick-admin/admin/class-quick-admin-admin.php:213
+msgid "Settings"
+msgstr ""
+
+#: ../../quick-admin/admin/class-quick-admin-admin.php:232
+msgid "Quick Admin Settings"
+msgstr ""
+
+#: ../../quick-admin/admin/class-quick-admin-admin.php:234
+msgid "Enable Quick Admin"
+msgstr ""
+
+#: ../../quick-admin/admin/class-quick-admin-admin.php:236
+msgid "Enable Quick Links in Admin bar"
+msgstr ""
+
+#: ../../quick-admin/admin/class-quick-admin-admin.php:238
+msgid "Enable Quick Links for"
+msgstr ""
+
+#: ../../quick-admin/admin/class-quick-admin-admin.php:266
+#: ../../quick-admin/admin/class-quick-admin-admin.php:278
+msgid "Enable"
+msgstr ""
+
+#: ../../quick-admin/admin/class-quick-admin-admin.php:446
+msgid "No links added yet."
+msgstr ""
+
+#: ../../quick-admin/admin/class-quick-admin-admin.php:453
+#, php-format
+msgid "Click %s to manage Quick Links."
+msgstr ""
+
+#: ../../quick-admin/admin/class-quick-admin-admin.php:567
+msgid "Link deleted successfully"
+msgstr ""
+
+#: ../../quick-admin/admin/views/admin.php:31
+msgid "Save Changes"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:13
+msgid "Quick Links"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:13
+msgid "Add New"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:39
+#: ../../quick-admin/admin/views/qa-edit-form.php:27
+msgid "Link"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:40
+msgid "URL"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:41
+msgid "New Tab"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:42
+msgid "Order"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:43
+msgid "Action"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:58
+msgid "Yes"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:58
+msgid "No"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:66
+msgid "Edit"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:69
+msgid "Delete"
+msgstr ""
+
+#: ../../quick-admin/admin/views/links.php:87
+#, php-format
+msgid "No links found. Please add links by clicking %sAdd New%s"
+msgstr ""
+
+#: ../../quick-admin/admin/views/qa-edit-form.php:16
+#, php-format
+msgid "Fields with %s mark are required"
+msgstr ""
+
+#: ../../quick-admin/admin/views/qa-edit-form.php:20
+msgid "Title"
+msgstr ""
+
+#: ../../quick-admin/admin/views/qa-edit-form.php:22
+msgid "Enter Title"
+msgstr ""
+
+#: ../../quick-admin/admin/views/qa-edit-form.php:29
+msgid "Enter Link"
+msgstr ""
+
+#: ../../quick-admin/admin/views/qa-edit-form.php:34
+msgid "Open in new window"
+msgstr ""
+
+#: ../../quick-admin/admin/views/qa-edit-form.php:36
+msgid "Check to Enable"
+msgstr ""
+
+#: ../../quick-admin/admin/views/qa-edit-form.php:41
+msgid "Menu Order"
+msgstr ""
+
+#: ../../quick-admin/admin/views/qa-edit-form.php:50
+msgid "Submit"
+msgstr ""
+
+#: ../../quick-admin/admin/views/qa-edit-form.php:50
+msgid "Update"
+msgstr ""
+
+#: ../../quick-admin/public/class-quick-admin.php:297
+msgid "Add New Qlink"
+msgstr ""
+
+#: ../../quick-admin/public/class-quick-admin.php:298
+msgid "New Qlink"
+msgstr ""
+
+#: ../../quick-admin/public/class-quick-admin.php:299
+msgid "Edit Qlink"
+msgstr ""
+
+#: ../../quick-admin/public/class-quick-admin.php:300
+msgid "View Qlink"
+msgstr ""
+
+#: ../../quick-admin/public/class-quick-admin.php:301
+msgid "All Qlinks"
+msgstr ""
+
+#: ../../quick-admin/public/class-quick-admin.php:302
+msgid "Search Qlinks"
+msgstr ""
+
+#: ../../quick-admin/public/class-quick-admin.php:303
+msgid "Parent Qlinks:"
+msgstr ""
+
+#: ../../quick-admin/public/class-quick-admin.php:304
+msgid "No qlinks found."
+msgstr ""
+
+#: ../../quick-admin/public/class-quick-admin.php:305
+msgid "No qlinks found in Trash."
+msgstr ""
